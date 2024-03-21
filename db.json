@@ -1,0 +1,41 @@
+{
+  "projetos": [
+    {
+      "id": "1",
+      "nome": "Alura Tracker1"
+    },
+    {
+      "id": "2",
+      "nome": "Vue.js"
+    }
+  ],
+  "tarefas": [
+    {
+      "id": "1",
+      "descricao": "Aprendendo Vue.js",
+      "duracaoEmSegundos": 150,
+      "projeto": {
+        "id": 2,
+        "nome": "Vue.js"
+      }
+    },
+    {
+      "id": "2",
+      "descricao": "Configurando mock",
+      "duracaoEmSegundos": 110,
+      "projeto": {
+        "id": 3,
+        "nome": "TypeScript"
+      }
+    },
+    {
+      "id": "d7e1",
+      "duracaoEmSegundos": 3,
+      "descricao": "typescript",
+      "projeto": {
+        "id": "1",
+        "nome": "Alura Tracker1"
+      }
+    }
+  ]
+}
